@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Professors should render correctly with professors 1`] = `
+<div>
+  <ul>
+    <li
+      key="1"
+      style={
+        Object {
+          "padding": "10px",
+        }
+      }
+    >
+      <span
+        style={
+          Object {
+            "color": "gray",
+          }
+        }
+      >
+         id: 
+      </span>
+       
+      1
+       
+      <br />
+      <span
+        style={
+          Object {
+            "color": "gray",
+          }
+        }
+      >
+         Name: 
+      </span>
+       
+      gabriel
+       
+      <br />
+    </li>
+    <li
+      key="2"
+      style={
+        Object {
+          "padding": "10px",
+        }
+      }
+    >
+      <span
+        style={
+          Object {
+            "color": "gray",
+          }
+        }
+      >
+         id: 
+      </span>
+       
+      2
+       
+      <br />
+      <span
+        style={
+          Object {
+            "color": "gray",
+          }
+        }
+      >
+         Name: 
+      </span>
+       
+      matias
+       
+      <br />
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`Professors should render correctly without professors 1`] = `
+<div>
+  <ul>
+    NO DB ENTRIES YET
+  </ul>
+</div>
+`;
